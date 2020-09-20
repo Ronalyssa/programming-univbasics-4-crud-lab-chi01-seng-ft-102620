@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  fruit = [apple, pear, banana, coconut] 
+  fruit = [apple, pear, banana, coconut]
   fruit[-1]
 end
 
